@@ -25,7 +25,6 @@ def isPhoneNumber(text):
         # default is True
         return True
 
-
 print "9916149606 is a Landline number ?"
 print isPhoneNumber('9916149606')
 

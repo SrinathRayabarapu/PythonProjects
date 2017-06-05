@@ -9,5 +9,5 @@ print "Here's your text\n", txt.read()
 
 txt.close()
 
-#below line doesn't work
+#below line doesn't work as we'are accessing read() after file closure
 #print txt.read()
